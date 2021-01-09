@@ -8,5 +8,5 @@ I wrote bitman while revisiting the problem of generating primes. Generation of 
 
 |*Technique*|*Programming language*|
 |:----------|:------------------------|
-|Erastothenes sieve|Python|
-|**Sundaram's sieve**|Python|
+|**Erastothenes sieve**|Python|
+|Sundaram's sieve|Python|

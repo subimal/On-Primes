@@ -1,2 +1,2 @@
 # OnPrimes
-A collection of my codes on prime numbers
+A collection of codes on prime numbers

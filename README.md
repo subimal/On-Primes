@@ -3,7 +3,7 @@ I wrote bitman while revisiting the problem of generating primes. Generation of 
 
 **Task:** Generate prime numbers from 1 to N where N is an integer.
  
-* An incomplete task will be in <font color="red">red</font>
+* An incomplete task will be in ![#ff0000] red `#ff0000`
 * A complete task will be in <font color="green">green</font>
 
 |*Technique*|*Programming language*|

@@ -3,10 +3,10 @@ I wrote bitman while revisiting the problem of generating primes. Generation of 
 
 **Task:** Generate prime numbers from 1 to N where N is an integer.
  
-* An incomplete task will be in ![#ff0000] red `#ff0000`
-* A complete task will be in <font color="green">green</font>
+* An incomplete task will be in normal font
+* A complete task will be in **bold font**
 
 |*Technique*|*Programming language*|
 |:----------|:------------------------|
 |Erastothenes sieve|Python|
-|<font color="red">Sundaram's sieve</font>|Python|
+|**Sundaram's sieve**|Python|

@@ -9,3 +9,4 @@ I wrote bitman while revisiting the problem of generating primes. Generation of 
 The following have been implemented:
 
 * **Erastothenes sieve** |[Python](https://github.com/subimal/On-Primes/blob/main/PrimeSieves/Erastothenes.py)|
+* **Sundaram's sieve** |[Python](https://github.com/subimal/On-Primes/blob/main/PrimeSieves/Sundaram.py)|

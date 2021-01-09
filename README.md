@@ -3,10 +3,10 @@ I wrote bitman while revisiting the problem of generating primes. Generation of 
 
 **Task:** Generate prime numbers from 1 to N where N is an integer.
  
+* A complete task will be hyperlinked to the code
 * An incomplete task will be in normal font
-* A complete task will be in **bold font**
 
-|*Technique*|*Programming language*|
-|:----------|:------------------------|
-|**Erastothenes sieve**|Python|
-|Sundaram's sieve|Python|
+The following have been implemented:
+
+* **Erastothenes sieve** [Python](https://github.com/subimal/On-Primes/blob/main/PrimeSieves/Erastothenes.py)
+* Sundaram's sieve       
